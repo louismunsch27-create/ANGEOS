@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Type=Application
+Name=ANGEOS System Monitor
+Comment=Moniteur systeme ANGEOS
+Exec=sh -c 'conky --daemonize --config="$HOME/.config/conky/conky.conf"'
+Terminal=false
+StartupNotify=false

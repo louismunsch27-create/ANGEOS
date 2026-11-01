@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Type=Application
+Name=ANGEOS Dashboard
+Comment=Tableau de bord systeme ANGEOS
+Exec=python3 /opt/angeos/dashboard.py
+Terminal=false
+StartupNotify=false

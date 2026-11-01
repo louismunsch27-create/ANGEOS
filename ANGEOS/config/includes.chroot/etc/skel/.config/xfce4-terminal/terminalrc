@@ -1,0 +1,13 @@
+
+[Configuration]
+BackgroundMode=TERMINAL_BACKGROUND_SOLID
+BackgroundColor=#101010
+ForegroundColor=#EEEEEE
+ColorPalette=#202020;#CC6666;#A3BE8C;#EBCB8B;#81A1C1;#B48EAD;#88C0D0;#ECEFF4;#4C566A;#BF616A;#A3BE8C;#EBCB8B;#81A1C1;#B48EAD;#8FBCBB;#FFFFFF
+FontName=Monospace 11
+MiscCursorBlinks=FALSE
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscDefaultGeometry=100x30
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
+MiscMenubarDefault=FALSE
+MiscToolbarDefault=FALSE
